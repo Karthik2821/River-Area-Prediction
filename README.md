@@ -1,58 +1,55 @@
 ## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+River area prediction using machine learning is an application of regression analysis that can help in predicting the changes in the area of a river over time. 
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+The "River Area Prediction Using Machine Learning with Real-Time Data" project focuses on predicting fluctuations in river areas by analyzing live environmental data through machine learning. 
+Key activities involve data preprocessing, feature engineering, model training, and real-time system deployment, which allow for continuous monitoring and real-time predictions. This approach is vital for early flood warnings, water resource management, and environmental conservation, supporting decision-makers with critical information for public safety and sustainability efforts.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+
+- Real-Time Data Integration
+- Data Preprocessing 
+- Scalability and Flexibility.
+- Feature Engineering.
+- Model Testing
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
+* Operating System:  Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with machine learning frameworks.
+* Development Environment:  Python 3.6 or later is necessary for coding.
+* Machine Learning Frameworks:  TensorFlow for model training, PyTorch for model development
+* Image Processing Libraries: OpenCV for image processing tasks such as image resizing, filtering, and transformations.
 * Version Control: Implementation of Git for collaborative development and effective code management.
 * IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
-
+* Additional Dependencies: Includes SQLAlchemy, Requests, Flask / FastAPI, Pillow, dotenv.
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![image](https://github.com/user-attachments/assets/40bc473b-c627-4881-9256-502dd17e7514)
 
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
+
 #### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+
 
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The River Area Prediction Using Machine Learning with Real-Time Data is expected to yield significant results and impactful outcomes. By accurately predicting river area changes through advanced machine learning models, the project will provide timely insights for flood forecasting, enabling proactive measures to protect communities and infrastructure. Improved data-driven decision-making will enhance water resource management, ensuring sustainable usage and conservation of aquatic ecosystems. 
 
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1. J. He, S. Gong, Y. Yu, L. Yu, L. Wu, H. Mao, C. Song, S. Zhao, H. Liu, X. Li et al., “Air pollution characteristics and their relation to meteorological conditions during 2014–2015 in major chinese cities,” Environmental pollution, vol. 223, pp. 484–496, 2017.
+
+2. E. Kalapanidas and N. Avouris, “Applying machine learning techniques in air quality prediction,” in Proc. ACAI, vol. 99, September 2017.
 
 
 
