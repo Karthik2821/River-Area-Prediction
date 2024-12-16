@@ -1,16 +1,16 @@
 ## Title of the Project
-River area prediction using machine learning is an application of regression analysis that can help in predicting the changes in the area of a river over time. 
+Human Emotion Recognition through Transfer Learning for Enhanced Sensory Interaction effectively conveys the system's purpose of leveraging transfer learning to enable real-time detection and classification of human emotions, enhancing intuitive interactions between humans and machines. 
 
 ## About
-The "River Area Prediction Using Machine Learning with Real-Time Data" project focuses on predicting fluctuations in river areas by analyzing live environmental data through machine learning. 
-Key activities involve data preprocessing, feature engineering, model training, and real-time system deployment, which allow for continuous monitoring and real-time predictions. This approach is vital for early flood warnings, water resource management, and environmental conservation, supporting decision-makers with critical information for public safety and sustainability efforts.
+The "Real-Time Human Emotion Recognition through Transfer Learning for Enhanced Sensory Interaction" focuses on developing an efficient and accurate system for detecting and classifying human emotions in real-time using deep learning techniques. 
+Key activities involve data collection, data preprocessing, model training and real-time system deployment, which allow for continuous monitoring and real-time predictions. By leveraging transfer learning with the MobileNetV2 model, pre-trained on large datasets, the system adapts to the task of emotion recognition with reduced computational complexity and enhanced performance.
 
 ## Features
 
-- Real-Time Data Integration
+- Real-Time Emotion Recognition
 - Data Preprocessing 
-- Scalability and Flexibility.
-- Feature Engineering.
+- Transfer Learning with MobileNetV2
+- Feature Extraction.
 - Model Testing
 
 ## Requirements
